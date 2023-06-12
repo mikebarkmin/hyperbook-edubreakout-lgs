@@ -6,6 +6,14 @@ lang: de
 
 # Level 4
 
+> Was so schnell! Für das nächste Rätsel benötigt ihr all euer Können. Ich habe es euch nicht leicht gemacht. Aber wer wollte nicht schon mal das Produkt von der Anzahl der Vierbettzimmer, der Länge der längsten Seite und dem Alter der Mutter erfahren?
+
+:::audio{controls="true"}
+
+::source{src="/hyperbook-edubreakout-lgs/audio/archi-l4.mp3"}
+
+:::
+
 ## Jugendheim
 
 In einem Jugendheim gibt es 18 Zimmer (Vierbett- und
@@ -26,10 +34,6 @@ wird sie doppelt so alt wie ihre Tochter sein. Wie alt sind beide
 heute?
 
 ## Lösung
-
-Für den Zugang zum letzten Teil multipliziert die Anzahl der
-Vierbettzimmer mit der Länge der längsten Seite und dem Alter der
-Mutter.
 
 :::protect{password="5760"}
 
