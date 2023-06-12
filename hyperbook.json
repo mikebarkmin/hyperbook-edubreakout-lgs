@@ -8,5 +8,9 @@
   },
   "license": "CC-BY-SA",
   "language": "de",
-  "basePath": "/hyperbook-edubreakout-lgs"
+  "basePath": "/hyperbook-edubreakout-lgs",
+  "logo": "/logo.png",
+  "elements": {
+    "bookmarks": false
+  }
 }
