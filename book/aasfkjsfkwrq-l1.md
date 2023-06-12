@@ -10,7 +10,7 @@ lang: de
 > 
 > Euer Archi. Ähm für euch natürlich Professor Archimedes.
 
-:::audio{controls="true"}
+:::audio{id="archi-l1" controls="true"}
 
 ::source{src="/hyperbook-edubreakout-lgs/audio/archi-l1.mp3"}
 

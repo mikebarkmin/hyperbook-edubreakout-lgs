@@ -8,7 +8,7 @@ lang: de
 
 > Was so schnell! Für das nächste Rätsel benötigt ihr all euer Können. Ich habe es euch nicht leicht gemacht. Aber wer wollte nicht schon mal das Produkt von der Anzahl der Vierbettzimmer, der Länge der längsten Seite und dem Alter der Mutter erfahren?
 
-:::audio{controls="true"}
+:::audio{id="archi-l4" controls="true"}
 
 ::source{src="/hyperbook-edubreakout-lgs/audio/archi-l4.mp3"}
 

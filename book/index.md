@@ -14,7 +14,7 @@ Ihr betretet einen mysteriösen Raum, der von einem berühmten Mathematiker name
 > Viel Glück,
 > Professor Archimedes
 
-:::audio{controls="true"}
+:::audio{id="archi-l0" controls="true"}
 
 ::source{src="/hyperbook-edubreakout-lgs/audio/archi-l0.mp3"}
 

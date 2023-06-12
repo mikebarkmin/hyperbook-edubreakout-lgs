@@ -8,7 +8,7 @@ lang: de
 
 > So langsam muss ich mir was einfallen lassen. Ihr seid zu gut. Jetzt müsst ihr es mit meinem Chatbot aufnehmen. Der wird euch gemeine Fragen stellen.
 
-:::audio{controls="true"}
+:::audio{id="archi-l3" controls="true"}
 
 ::source{src="/hyperbook-edubreakout-lgs/audio/archi-l3.mp3"}
 
