@@ -17,7 +17,7 @@ lang: de
 
 ![](/images/blumen.png)
 
-:::protect{password="81" description="Lösung"}
+:::protect{id="p2" password="81" description="Lösung"}
 
 [Level 3](/sajavsadnfa-l3)
 

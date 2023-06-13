@@ -35,7 +35,7 @@ heute?
 
 ## Lösung
 
-:::protect{password="5760"}
+:::protect{id="p4" password="5760"}
 
 [Geheimnis](/vxynmvsdlkfs-geschafft)
 
