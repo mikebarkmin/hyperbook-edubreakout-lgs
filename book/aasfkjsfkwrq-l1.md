@@ -18,7 +18,7 @@ lang: de
 
 Löse das [Kreuzworträtsel](https://puzzel.org/de/crossword/play?p=-NXlIz3wkTWgk49YMXVq).
 
-:::protect{id="p1" password="RECHENMASCHINE" description="Lösung"}
+:::protect{id="p1" password="TASCHENRECHNER" description="Lösung"}
 
 [Level 2](/nmcxvnwiejw-l2)
 
