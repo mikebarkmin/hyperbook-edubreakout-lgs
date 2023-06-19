@@ -14,7 +14,7 @@ lang: de
 
 :::
 
-Löse den [Learningsnack](https://www.learningsnacks.de/share/166113/6fd58bdd-ae53-4b06-ad5a-a63b1155dba8).
+Löse den [Learningsnack](https://www.learningsnacks.de/share/371707/a6585d24-b6fe-4550-bbc1-3cc3681ca4aa).
 
 :::protect{ip="p3" password="Festplatte" description="Level 4"}
 
