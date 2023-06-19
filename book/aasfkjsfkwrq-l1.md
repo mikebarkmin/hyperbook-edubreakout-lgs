@@ -12,13 +12,13 @@ lang: de
 
 :::audio{id="archi-l1" controls="true"}
 
-::source{src="/hyperbook-edubreakout-lgs/audio/archi-l1.mp3"}
+::source{src="/hyperbook-edubreakout-mathe-7-lgs/audio/archi-l1.mp3"}
 
 :::
 
 Löse das [Kreuzworträtsel](https://puzzel.org/de/crossword/play?p=-NXlIz3wkTWgk49YMXVq).
 
-:::protect{id="p1" password="TASCHENRECHNER" description="Lösung"}
+:::protect{id="p1" password="Taschenrechner" description="Lösung"}
 
 [Level 2](/nmcxvnwiejw-l2)
 

@@ -6,11 +6,11 @@ lang: de
 
 # Level 4
 
-> Was so schnell! Für das nächste Rätsel benötigt ihr all euer Können. Ich habe es euch nicht leicht gemacht. Aber wer wollte nicht schon mal das Produkt von der Anzahl der Vierbettzimmer, der Länge der längsten Seite und dem Alter der Mutter erfahren?
+> Was?! So schnell! Für das nächste Rätsel benötigt ihr all euer Können. Ich habe es euch nicht leicht gemacht. Aber wer wollte nicht schon mal das Produkt von der Anzahl der Vierbettzimmer, der Länge der längsten Seite und dem Alter der Mutter erfahren?
 
 :::audio{id="archi-l4" controls="true"}
 
-::source{src="/hyperbook-edubreakout-lgs/audio/archi-l4.mp3"}
+::source{src="/hyperbook-edubreakout-mathe-7-lgs/audio/archi-l4.mp3"}
 
 :::
 
