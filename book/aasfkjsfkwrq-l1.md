@@ -10,11 +10,7 @@ lang: de
 >
 > Euer Archi. Ähm für euch natürlich Professor Archimedes.
 
-:::audio{id="archi-l1" controls="true"}
-
-::source{src="/hyperbook-edubreakout-mathe-7-lgs/audio/archi-l1.mp3"}
-
-:::
+::audio{src="/audio/archi-l1.mp3" thumbnail="/images/archimedes.png"}
 
 Löse das [Kreuzworträtsel](https://puzzel.org/de/crossword/play?p=-NXlIz3wkTWgk49YMXVq).
 

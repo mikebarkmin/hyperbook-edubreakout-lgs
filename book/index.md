@@ -14,11 +14,7 @@ Ihr betretet einen mysteriösen Raum, der von einem berühmten Mathematiker name
 > Viel Glück,
 > Professor Archimedes
 
-:::audio{id="archi-l0" controls="true"}
-
-::source{src="/hyperbook-edubreakout-lgs/audio/archi-l0.mp3"}
-
-:::
+::audio{src="/audio/archi-l0.mp3" thumbnail="/images/archimedes.png"}
 
 Bereit, das Rätsel des mathematischen Chaos anzunehmen? Das erste Level wartet auf euch!
 
